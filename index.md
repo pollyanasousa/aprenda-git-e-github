@@ -156,8 +156,9 @@ No repositório → **Settings → Pages → Source → branch main → / (root)
 
 ## 🔗 Link do Projeto
 
-Acesse o repositório aqui:  
-👉 [github.com/seu-usuario/git-para-iniciantes](https://github.com/seu-usuario/git-para-iniciantes)
+Acesse o repositório remoto via SSH:  
+👉 `git@github.com:pollyanasousa/aprenda-git-e-github.git`  
+🔗 [Abrir no GitHub](https://github.com/pollyanasousa/aprenda-git-e-github)
 
 ---
 
